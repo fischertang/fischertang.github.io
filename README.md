@@ -1,2 +1,2 @@
-# fishertang
-Fisher Tang, LLC
+# fischertang
+Fischer Tang, LLC
