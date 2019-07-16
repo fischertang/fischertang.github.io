@@ -25,10 +25,10 @@ b {
     color: #208d9c;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #208d9c;
-    line-height: 1;
+    line-height: .5em;
 }
 h2 {
     font-size: 2em;
