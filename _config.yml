@@ -1,4 +1,4 @@
 name: Fischer Tang, LLC
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-remote_theme: fischertang/airspace-jekyll
+theme: fischertang/airspace-jekyll
