@@ -215,6 +215,12 @@ input, select, textarea {
 	  text-decoration: none;
 	}
 
+	#footbar {
+		overflow: hidden;
+		background-color: #333;
+		z-index:1;
+	}
+
 	/* Page content */
 	.content {
 	  padding: 16px;
