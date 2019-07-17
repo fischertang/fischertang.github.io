@@ -198,9 +198,19 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
+	@font-face {
+	  font-family: 'baske';
+	  src: url('assets/webfonts/BASKE1.ttf'); /* IE9 Compat Modes */
+	  src: url('assets/webfonts/BASKE1.ttf') format('embedded-opentype'), /* IE6-IE8 */
+	       url('assets/webfonts/BASKE1.ttf') format('woff2'), /* Super Modern Browsers */
+	       url('assets/webfonts/BASKE1.ttf') format('woff'), /* Pretty Modern Browsers */
+	       url('assets/webfonts/BASKE1.ttf')  format('truetype'), /* Safari, Android, iOS */
+	       url('assets/webfonts/BASKE1.ttf') format('svg'); /* Legacy iOS */
+	}
+
 	h1 {
 		color: #ffffff;
-		font-family: Baskerville, "Raleway", Helvetica, sans-serif;
+		font-family: 'baske', "Raleway", Helvetica, sans-serif;
 		font-weight: 600;
 		letter-spacing: 0.175em;
 		line-height: 1.75;
