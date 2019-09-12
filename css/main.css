@@ -26,11 +26,7 @@ b {
     text-decoration: bold;
     color: #208d9c;
 }
-h1 {
-    font-size: 2.5em;
-    font-family:'Libre Baskerville', serif; 'Helvetica', 'Arial', 'Sans-Serif';
-    color: #ffffff;
-}
+
 h2 {
     font-size: 1.8em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -39,7 +35,7 @@ h2 {
 h3 {
     text-decoration: none;
     font-weight: normal;
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #000000;
 }
