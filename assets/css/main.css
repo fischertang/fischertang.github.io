@@ -182,7 +182,7 @@ input, select, textarea {
 		a:hover {
 			text-decoration: none;
 			border-bottom-color: transparent;
-			color: #09505a;
+			color: #79797a;
 		}
 
 	strong, b {
@@ -195,7 +195,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2rem 0;
+		margin: 0 0 1em 0;
 	}
 
 	/* Style the navbar */
@@ -266,7 +266,7 @@ input, select, textarea {
 		font-weight: 600;
 		letter-spacing: 0.175em;
 		line-height: 1;
-		margin: 0 0 1.5rem 0;
+		margin: 0 0 1rem 0;
 		text-transform: uppercase;
 	}
 
@@ -302,7 +302,15 @@ input, select, textarea {
 	}
 
 	h5 {
-		font-size: 0.75rem;
+    color: #2c8d9b;
+		a:hover: #79797a;
+		font-family: 'baske', "Source Sans Pro", Helvetica, sans-serif;
+		font-size: 2.5rem;
+		font-weight: 700;
+		letter-spacing: +0.01em;
+		line-height: 1.1;
+		margin: 0 0 1.5rem 0;
+		text-transform: none;
 	}
 
 	h6 {
